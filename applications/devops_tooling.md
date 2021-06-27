@@ -21,10 +21,10 @@ We intend to continue innovating it.
 
 Please provide the following:
 
-* If the name of your project is not descriptive, a tag line (one sentence summary).
-* A brief description of your project.
-* An indication of how your project relates to / integrates into Substrate / Polkadot / Kusama.
-* An indication of why your team is interested in creating this project.
+* To build CNCF DevOps Tooling such as CICP pipelines and monitoring in a Kubernetes platform.
+* We recognize that for a would be layer-1 or 2 app development like Parachains, Parathread, Bridge, Validator, Collator, Smart Contracts, NFT, DeFi, etc starting from scratch is hard. So what if, there exist pre-baked set of initial Infra as Code provisioner, Cluster, Network and Security setup that a would-be team could leverage and use to scaffold their own use-cases as a foundational building block? Imagine the win-win benefit it could give for the Polkadot Network community. Speed of development could ascertain greater velocities, and with it, a more lively and active community. For the teams using it, again, the value is speed to market. 
+* We provide pathways to use our tools specific to Polkadot Blockchain Network, and custom Substrate Blockchain.
+* In the India Buildathon, we delivered a work proof-of-concept.
 
 ### Project Details
 
