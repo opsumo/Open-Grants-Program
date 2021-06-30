@@ -13,7 +13,7 @@
 
 ## Project Overview :page_facing_up:
 
-Having been recongnized as a runner-up in the India Buildathon 2021, our [project](https://github.com/opsumo/polkadot-cn-devops-priv) has proven that it could be useful Polkadot and Substrate projects and that, it has more room for further innovations.
+Having been recognized as a runner-up in the India Buildathon 2021, our [project](https://github.com/opsumo/polkadot-cn-devops-priv) has proven that it could be useful Polkadot and Substrate projects and that, it has more room for further innovations.
 
 We intend to continue innovating it.
 
@@ -21,10 +21,10 @@ We intend to continue innovating it.
 
 Please provide the following:
 
-* To build CNCF DevOps Tooling such as CICP pipelines and monitoring in a Kubernetes platform.
-* We recognize that for a would be layer-1 or 2 app development like Parachains, Parathread, Bridge, Validator, Collator, Smart Contracts, NFT, DeFi, etc starting from scratch is hard. So what if, there exist pre-baked set of initial Infra as Code provisioner, Cluster, Network and Security setup that a would-be team could leverage and use to scaffold their own use-cases as a foundational building block? Imagine the win-win benefit it could give for the Polkadot Network community. Speed of development could ascertain greater velocities, and with it, a more lively and active community. For the teams using it, again, the value is speed to market. 
-* We provide pathways to use our tools specific to Polkadot Blockchain Network, and custom Substrate Blockchain.
-* In the India Buildathon, we delivered a work proof-of-concept.
+* Provision and Deploy a Polkadot/Substrate Network or Component(s) or Custom Blockchain Project in a Cloud-Native Testnet.
+* We recognize that for a would be layer-1 or 2 app development like Parachains, Parathread, Bridge, Validator, Collator, Smart Contracts, NFT, DeFi, etc starting from scratch is hard. So what if, there exist pre-baked set of initial Infra as Code provisioner, Cluster, Network and Security setup that a would-be team could leverage and use to scaffold their own use-cases as a foundational building block? Imagine the win-win benefit it could give for the Polkadot Network community. Speed of development could ascertain greater velocities, and with it, a more lively and active community. For the project teams planning on using it, again, the value is speed to market. 
+* We will setup project teams that focuses on the streams such [P1](https://github.com/opsumo/polkadot-cn-devops-priv/blob/main/deploy-chain-1/README.md), [P2](https://github.com/opsumo/polkadot-cn-devops-priv/blob/main/deploy-chain-2/README.md), [P3](https://github.com/opsumo/polkadot-cn-devops-priv/blob/main/deploy-chain-3/README.md), etc. We will provide pathways to use our tools specific to Polkadot Blockchain Network, and custom Substrate Blockchain.
+* One of our main business focus is IoT in the field of RFID and Bluetooth (Low Energy). A key intent in doing this endeavour is to correlate this project as a probable platform for future IoT projects.
 
 ### Project Details
 
