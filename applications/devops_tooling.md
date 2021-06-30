@@ -32,9 +32,9 @@ We expect the teams to already have a solid idea about your project's expected f
 
 * Mockups/designs of any UI components
 * Data models / API specifications of the core functionality
-* An overview of the technology stack to be used
+* Architecture: CNCF certified components, platforms, tools and cloud infrastructure.
 * Documentation of core components, protocols, architecture, etc. to be deployed
-* PoC/MVP or other relevant prior work or research on the topic
+* PoC/MVP or other relevant prior work or research on the topic - [Our entry to the buildathn India 2021 is our PoC](https://github.com/opsumo/polkadot-cn-devops-priv)
 * What your project is _not_ or will _not_ provide or implement
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
 
