@@ -37,17 +37,22 @@ We expect the teams to already have a solid idea about your project's expected f
 * PoC/MVP or other relevant prior work or research on the topic - [Our entry to the buildathn India 2021 is our PoC](https://github.com/opsumo/polkadot-cn-devops-priv)
 * What your project is _not_ or will _not_ provide or implement
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
+    - 
 
 ### Ecosystem Fit
 
 Help us locate your project in the Polkadot/Substrate/Kusama landscape and what problems it tries to solve by answering each of these questions:
 
-* Where and how does your project fit into the ecosystem?
+* Where and how does your project fit into the ecosystem? 
+  + We will provide a service to host initial skeletal workspace with ready CICD automation further host DEV, TEST networks for Polkadot network, its components such as parachains, validators, collators and various customization streams for Substrate Blockchain designed for dApps, deFi, Smart Contracts, etc
 * Who is your target audience (parachain/dapp/wallet/UI developers, designers, your own user base, some dapp's userbase, yourself)?
+  + Our consumers will be potentially Paritech, developers, designers, other dapps developer houses and even us ourselves.
 * What need(s) does your project meet?
+  + The need for speed to market and standardization of deployment flows. 
+  + Cost savings from a pay as you go service for hosting, managed-service, or consultancy
 * Are there any other projects similar to yours in the Substrate / Polkadot / Kusama ecosystem?
-  * If so, how is your project different?
-  * If not, are there similar projects in related ecosystems?
+  * We believe that there exist nothing like us in the current ecosystem.
+  * The likelihood of similar work from other ecosystems is zero to maybe very low probability.
 
 ## Team :busts_in_silhouette:
 
