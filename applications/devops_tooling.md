@@ -37,7 +37,7 @@ We expect the teams to already have a solid idea about your project's expected f
 * PoC/MVP or other relevant prior work or research on the topic - [Our entry to the buildathn India 2021 is our PoC](https://github.com/opsumo/polkadot-cn-devops-priv)
 * What your project is _not_ or will _not_ provide or implement
   * This is a place for you to manage expectations and to clarify any limitations that might not be obvious
-    - 
+    - We don't intend to reinvent or redesign Polkadot network processeses and systems for it to deviate from its original purpose and functionalities.
 
 ### Ecosystem Fit
 
@@ -76,9 +76,15 @@ Help us locate your project in the Polkadot/Substrate/Kusama landscape and what 
 
 ### Team's experience
 
-Please describe the team's relevant experience. If your project involves development work, we would appreciate it if you singled out a few interesting projects or contributions made by team members in the past. For research-related grants, references to past publications and projects in a related domain are helpful.
+Mike Stankavich rich experience providing an Infrastructure as Code (IaC) and hosting service for Horizen Cryptocurrency Secure and Super nodes is reverred by the team as an experience that provides impetus and inspiration to expand the scope of his service to include other Cryptocurrencies node staking services. He has extensive opensource SRE and Dev-Operations experience especially in the field of automation such as IaC, and CICD Pipelines. His Linux Scripting, Javascript, Node, Python and Java in-depth knowledge is his the and team's greatest asset. 
 
-If anyone on your team has applied for a grant at the Web3 Foundation previously, please list the name of the project and legal entity here.
+Bobby Corpus is the second pillar of this team. He has worked with Deutsche Bank as a VP for Engineering, among the many other major players in the industry such as MarkLogic and Red Hat as a technical resource. Like Mike, he is an expert Linux scripter, can do Python, Go, Rust, Javascript, Node and of course Java. He advocates DevOps done the right way and is a Redhat Openshift enthusiast.
+
+Edison Macabebe, the third pillar of this team is also a DevOps preacher. He promotes Cloud-Native as the core principle for his practice. Like all core members, he is full-stack developer. His techstack intersects with members in the core team.
+
+All of the core team members have rich experiences in the IT industry for more 15 years.
+
+None of our team members have applied or have submitted a pull request for its proposal to W3 Foundation.
 
 ### Team Code Repos
 
